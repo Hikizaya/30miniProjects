@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(255, 79, 138);
+
+    font-family: "UnifrakturMaguntia", cursive;
+    font-size: 33px;
+    color: #36e1ff;
+}
